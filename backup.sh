@@ -21,7 +21,7 @@ destinationDirectory="$2"
 
 # [TASK 2]
 echo "$targetDirectory"
-echo "$destination_directory_name"
+echo "$destinationDirectory"
 
 # [TASK 3]
 currentTS="$(date +"%s")"
